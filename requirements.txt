@@ -5,6 +5,8 @@ langgraph
 langchain-openai
 langchain-community
 langchain-qdrant
+langchain-huggingface
+sentence-transformers
 qdrant-client
 python-dotenv
 pandas

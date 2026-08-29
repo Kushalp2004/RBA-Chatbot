@@ -125,7 +125,7 @@ allowing users to verify the origin of each response.
 # Project Structure
 
 ```text
-RoleBasedAgentAI/
+RBA-Chatbot/
 │
 ├── main_app.py                 # Streamlit application
 ├── ingest_pipeline.py          # Document ingestion pipeline
@@ -610,9 +610,9 @@ This improves transparency and allows users to verify the retrieved information.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/RoleBasedAgentAI.git
+git clone https://github.com/your-username/RBA-Chatbot.git
 
-cd RoleBasedAgentAI
+cd RBAChatbot
 ```
 
 ---
